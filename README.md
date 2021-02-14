@@ -5,7 +5,7 @@
 In this project we are performing statistical analyses (linear regression, hypothesis testing ...) to assess the data related to the newest prototype (MechaCar) of a car manufacturing company "AutosRUs".
 
 ### **Purpose**
-the required data is provided in two files in csv format. The first file has information on the prototype itself and the second one contains data of the test results for weight capacities of multiple suspension coils from different lots. [Fig. 1](Visualizations/data.png) and [Fig. 2](Visualizations/data.png) show a part of these files.
+the required data is provided in two files in csv format. The first file has information on the prototype itself and the second one contains data of the test results for weight capacities of multiple suspension coils from different lots. [Fig. 1](screen_shots/MechaCar_mpg.png) and [Fig. 2](screen_shots/Suspension_Coil.png) show a part of these files.
   
 
 <center>
@@ -32,7 +32,7 @@ We set the "mpg" as the dependent variable and all other factors in the provided
 
 <center>
 
-|*Fig. 2: Linear model to predict the MPG*|
+|*Fig. 3: Linear model to predict the MPG*|
 :--:
 |<img src="screen_shots/linear_reg.png" width="600" style="border: 1px solid black">|
 </center>
