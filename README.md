@@ -45,7 +45,7 @@ As you can see in the figure we can write an equation for this linear regression
 
 The summary statistics shows that the p-value for this model is 5.35e-11 which is much smaller than an assumed significance level of 0.05, so we can reject the null hypothesis which is "the slope of the linear model is zero".  
 the most significant independent variables in this linear model are ***"vehicle_length"*** and ***"ground_clearance"*** as they have the lowest p-values according to the summary statistics.  
-This model has an R-squared value of 0.7149. that means there is a 70% chance that the predictions for the MPG using this model will be correct.
+This model has an R-squared value of 0.7149. that means there is a 70% chance that the predictions for the MPG using this model will be correct, that can be considered a good chance.
 &nbsp;
 
 ## **Summary Statistics on Suspension Coils**
